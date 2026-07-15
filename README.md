@@ -11,5 +11,7 @@ Multi-agent system for stock analysis.
 ## 🧾 [Data-Reconciliator](https://github.com/Tanmanstyle/Data-Reconciliator)
 Data reconciliation and cleaning tool.
 
+## [Pacman Machine Learning Task] .(https://github.com/Tanmanstyle/pacmanML1CW).
+Q-Learning group coursework.
 ---
 📫 Reach me: sehrat451@gmail.com
