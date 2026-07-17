@@ -14,7 +14,7 @@ Multi-agent system for stock analysis.
 ## [Data-Reconciliator](https://github.com/Tanmanstyle/Data-Reconciliator)
 Data reconciliation and cleaning tool.
 
-## [MultiClass Logistics Regression](https://github.com/Tanmanstyle/pacmanML1CW](https://github.com/Tanmanstyle/softmax-regression)
+## [MultiClass Logistics Regression](https://github.com/Tanmanstyle/softmax-regression)
 Classifier coded for pacman using softmax regression (multiclass logistics regression).
 ---
 📫 Reach me: sehrat451@gmail.com
