@@ -16,5 +16,6 @@ Data reconciliation and cleaning tool.
 
 ## [MultiClass Logistics Regression](https://github.com/Tanmanstyle/softmax-regression)
 Classifier coded for pacman using softmax regression (multiclass logistics regression).
+
 ---
 📫 Reach me: sehrat451@gmail.com
