@@ -5,9 +5,6 @@ I build projects in my own time to develop new skills. My current focus is prima
 # [First Class Dissertation](https://github.com/Tanmanstyle/KCL-Dissertation-Project-)
 My dissertation for King's College London, involving a deep dive into edu-theory and "coding for users not tasks."
 
-## [RAG1](https://github.com/Tanmanstyle/RAG1)
-Retrieval-Augmented Generation project.
-
 ## [StockMultiAgent](https://github.com/Tanmanstyle/StockMultiAgent)
 Multi-agent system for stock analysis.
 
